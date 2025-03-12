@@ -1,6 +1,7 @@
 # Androms
 
-<h3 align="left">
+
+<h3 align="center">
 Hello! This repo is counting all the Android 
 roms I have found so far.
 </h3>
