@@ -1,0 +1,20 @@
+Hello! This is a list of the (major and STABLE!!!) roms for
+some smartphones.
+Usually the ones I put on here are semi-modern, and because
+of where I live, they *HAVE* to support 4/5G.
+
+
+Google Pixel 6-9 (Fold, Pro and XL included);
+https://calyxos.org
+https://e.foundation (No Pixel 9 support as of writing)
+https://lineageos.org
+
+Fairphone 4 & 5;
+https://calyxos.org
+https://e.foundation
+https://lineageos.org
+
+Galaxy A70*;
+https://lineageos.org
+https://e.foundation
+
