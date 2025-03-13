@@ -19,11 +19,11 @@ Does the device support 4/5G? If no, Add 3 points to your score
 
 Is the device stable in the custom rom? If no, Add 5 points to your score.
 
-Does the device have <4GB ram? If yes, Add 2 points to your score.
+Does the device have less than 4GB ram? If yes, Add 2 points to your score.
 
-Does the device have <64GB storage? If yes, Add 1 point to your score.
+Does the device have less than 64GB storage? If yes, Add 1 point to your score.
 
-Does the device have <1.5GHz CPU? If yes, Add 2 Points to your score.
+Does the device have a slower than 1.5GHz CPU? If yes, Add 2 Points to your score.
 
 If you got more than or equal to 3 points, but less than 5 points, then double
 check with me before adding.
