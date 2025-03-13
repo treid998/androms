@@ -1,0 +1,57 @@
+List of devices that support crDroid.
+For eligibility info, see the README.
+--------------------------------------------------------------
+Google Pixel 4a 5G
+Google Pixel 5
+Google Pixel 5a
+Google Pixel 6
+Google Pixel 7
+Google Pixel 7a
+Google Pixel 8
+Google Pixel 8a
+Google Pixel 8 Pro
+Google Pixel 9
+Google Pixel 9 Pro
+Google Pixel 9 Pro XL
+Google Pixel 9 Pro Fold
+Samsung Galaxy A20
+Samsung Galaxy A52
+Samsung Galaxy A70
+Samsung Galaxy A71 4G
+Samsung Galaxy A72
+Samsung Galaxy A73 5G
+Samsung Galaxy S10
+Samsung Galaxy S10+
+Samsung Galaxy S10e
+Samsung Galaxy S10 5G
+Samsung Galaxy Note 10
+Samsung Galaxy Note 10 5G
+Samsung Galaxy Note 10+
+Samsung Galaxy Note 10+ 5G
+Samsung Galaxy F62
+Samsung Galaxy M62
+Samsung Galaxy M52 5G
+OnePlus 5
+OnePlus 5T
+OnePlus 6
+OnePlus 6T
+OnePlus 7
+OnePlus 7 Pro
+OnePlus 7T
+OnePlus 7T Pro
+OnePlus 8
+OnePlus 8 Pro
+OnePlus 8T
+OnePlus 9
+OnePlus 9 Pro
+OnePlus 11 5G
+Xiaomi POCO F3
+Xiaomi Pocophone F1
+Xiaomi POCO F2 Pro
+Xiaomi POCO F4
+Xiaomi POCO F5
+Xiaomi POCO F5 Pro
+Xiaomi POCO F6
+Xiaomi POCO X5 Pro 5G
+Xiaomi POCO X3 (NFC)
+Xiaomi POCO X3 Pro
