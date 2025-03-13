@@ -1,0 +1,9 @@
+List of devices that can run halogenOS.
+For eligibility info, see the README.
+---------------------------------------------------------------
+Nothing Phone 1
+Nothing Phone 2
+OnePlus 5
+OnePlus 7 Pro
+Xiaomi Redmi Note 10S
+Samsung Galaxy A52 4G

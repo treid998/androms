@@ -1,0 +1,40 @@
+List of devices that support BlissRoms.
+For eligibility info, see the README.
+---------------------------------------------------------------
+Google Pixel 5
+Google Pixel 5a
+Google Pixel 6a
+Google Pixel 7
+Google Pixel 7 Pro
+Google Pixel 8
+Google Pixel 8 Pro
+Samsung Galaxy A70
+Xiaomi Redmi Note 10
+Xiaomi Redmi Note 10 Pro
+Xiaomi Redmi Note 10 Pro Max
+Xiaomi Redmi Turbo 3
+Xiaomi Redmi Note 9S
+Xiaomi Redmi Note 9 Pro
+Xiaomi Redmi Note 9 Pro Max
+Xiaomi Redmi 7A
+Xiaomi Redmi 8
+Xiaomi Redmi 8A
+Xiaomi Redmi 8A Dual 
+Xiaomi Redmi 12 5G
+Xiaomi Redmi K40
+Xiaomi Redmi Note 11 Pro
+Xiaomi Redmi Note 11 Pro+
+Xiaomi Redmi Note 11E Pro
+Xiaomi Poco M6 Pro
+Xiaomi Poco F2 Pro
+Xiaomi Poco X2
+Xiaomi Poco F3
+Xiaomi Poco X4 Pro
+Xiaomi Mi 11x
+Nothing Phone 1
+Nothing Phone 2
+OnePlus Nord
+OnePlus 6T
+OnePlus 7 Pro
+OnePlus 8 Pro
+OnePlus 9 Pro

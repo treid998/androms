@@ -1,0 +1,106 @@
+List of devices that can run /e/os.
+For eligibility info, see the README.
+----------------------------------------------------------------
+Google Pixel 5
+Google Pixel 5a
+Google Pixel 6
+Google Pixel 6a
+Google Pixel 6 Pro
+Google Pixel 7
+Google Pixel 7a
+Google Pixel 7 Pro
+Google Pixel 8
+Google Pixel 8a
+Google Pixel 8 Pro
+Google Pixel Fold
+Google Pixel XL
+Google Pixel XL 2
+Samsung Galaxy A52 4G
+Samsung Galaxy A52s 5G
+Samsung Galaxy A71
+Samsung Galaxy A72
+Samsung Galaxy A73 5G
+Samsung Galaxy S8
+Samsung Galaxy S9
+Samsung Galaxy S9+
+Nothing CMF Phone 1
+Fairphone 3
+Fairphone 4
+Fairphone 5
+Xiaomi 11 Lite 5G NE
+Xiaomi Mi 11 LE
+Xiaomi Mi 10
+Xiaomi Mi 10 Lite 5G
+Xiaomi Mi 10 Pro
+Xiaomi Mi 10T
+Xiaomi Mi 10T Pro
+Xiaomi Mi 10T Lite
+Xiaomi Mi 10i
+Xiaomi Redmi K30S Ultra
+Xiaomi Redmi Note 9 Pro 5G
+Xiaomi Mi 11 Lite 5G
+Xiaomi Mi 11 Pro
+Xiaomi Mi 11i
+Xiaomi Redmi K40
+Xiaomi Redmi K40 Pro
+Xiaomi Redmi K40 Pro+
+Xiaomi Mi 11X Pro
+Xiaomi Mi 8
+Xiaomi Mi 8 Explorer Edition
+Xiaomi Mi 8 Pro
+Xiaomi Mi 8 SE
+Xiaomi Mi 9 SE
+Xiaomi POCO F1
+Xiaomi POCO F2 Pro
+Xiaomi Redmi K30 Pro
+Xiaomi Redmi K30 Pro Zoom Edition
+Xiaomi POCO F3
+Xiaomi Mi 11X
+Xiaomi POCO F4
+POCO M2 Pro
+Redmi Note 9S
+Redmi Note 9 Pro
+Redmi Note 9 Pro Max
+POCO X3 NFC
+POCO X3 Pro
+Redmi 12C
+Redmi 3S
+Mi MIX 2
+Mi MIX 2S
+Mi MIX 3
+Redmi 4A
+Redmi 5A
+Redmi Note 5A
+Redmi Note Y1
+Redmi Note Y1 Lite
+Redmi 7
+Redmi 7A
+Redmi 8
+Redmi 8A
+Redmi 8A Dual
+Redmi 9
+Redmi K20
+Mi 9T
+Redmi K60 Pro
+Redmi Note 10 Pro
+Redmi Note 10S
+Redmi Note 7 Pro
+Redmi Note 9
+OnePlus 11 5G
+OnePlus 5
+OnePlus 5T
+OnePlus 6
+OnePlus 6T
+OnePlus 7
+OnePlus 7 Pro
+OnePlus 7T
+OnePlus 8
+OnePlus 8 Pro
+OnePlus 8T
+OnePlus 9
+OnePlus 9 Pro
+OnePlus 9R
+OnePlus 9RT
+OnePlus Nord
+OnePlus Nord N10
+OnePlus Nord200

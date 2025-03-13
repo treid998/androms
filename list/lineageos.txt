@@ -24,7 +24,7 @@ OnePlus Nord CE 2 Lite 5G
 OnePlus Nord CE 3 Lite 5G
 OnePlus Nord N10
 OnePlus Nord N200
-Google Pixel 6-9 (Pro, Fold and XL included)
+Google Pixel 5-9 (Pro, a versions, Foldables and XL included)
 Fairphone 3
 Fairphone 4
 Fairphone 5
@@ -47,8 +47,23 @@ Mi 10 Lite 5G
 Mi 10 Pro
 Mi 10S
 Mi 10T
-Mi 10T Lite 5G (horrible naming btw)
+Mi 10T Lite 5G 
+Xiaomi 11 Lite 5G NE (apparently not a mi phone???) 
 Mi 11 Lite 5G
 Mi 11 Pro
 Mi 11i
+Mi MIX 2
+Mi MIX 2S
+Mi MIX 3
+POCO F1
+POCO F2 PRO
+POCO F3
+POCO F4
+POCO M2 Pro
+POCO X3 NFC
+Redmi 7
+Redmi 7A
+Redmi K60 Pro
 Redmi Note 10 Pro
+Redmi 12C
+
