@@ -7,10 +7,11 @@ roms I have found so far.
 
 ## What's allowed and what's not
 This list is meant to store semi-modern devices, basically the newer the better.
-There isn't any cutoff date for when a device is considered modern or "older",
-so multiple factors should be considered. I have created a scoring system to
-get a general idea of how old your device is, and if it's eligible to be on this
-list.
+
+There isn't any particular cutoff date for when a device is considered modern or
+"older", so multiple factors should be considered. I have created a scoring
+system to get a general idea of how old your device is, and if it's eligible to 
+be on this list.
 
 Is the device more than 7 years old? If yes, add 1 point to your score.
 
