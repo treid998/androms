@@ -1,1 +1,50 @@
-Placeholder
+List of devices that can run LineageOS
+---------------------------------------
+OnePlus 5
+OnePlus 5T
+OnePlus 6
+OnePlus 6T
+OnePlus 7
+OnePlus 7 Pro
+OnePlus 7T
+OnePlus 7T Pro
+OnePlus 8
+OnePlus 8 Pro
+OnePlus 8T
+OnePlus 9
+OnePlus 9 Pro
+OnePlus 9R
+OnePlus 9RT
+OnePlus 11 5G
+OnePlus Nord CE 2 Lite 5G
+OnePlus Nord CE 3 Lite 5G
+OnePlus Nord N10
+OnePlus Nord N200
+Google Pixel 6-9 (Pro, Fold and XL included)
+Fairphone 3
+Fairphone 4
+Fairphone 5
+Nothing Phone 1
+Galaxy A52 4G
+Galaxy A52s 5G
+Galaxy A71
+Galaxy A72
+Galaxy A73 5G
+Galaxy Note10
+Galaxy Note10 5G
+Galaxy Note10+
+Galaxy Note10+ 5G
+Galaxy S10
+Galaxy S10 5G
+Galaxy S10+
+Galaxy S10e
+Mi 10
+Mi 10 Lite 5G
+Mi 10 Pro
+Mi 10S
+Mi 10T
+Mi 10T Lite 5G (horrible naming btw)
+Mi 11 Lite 5G
+Mi 11 Pro
+Mi 11i
+Redmi Note 10 Pro
