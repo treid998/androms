@@ -1,4 +1,8 @@
 List of devices that can run LineageOS
+Note that these devices are meant to be semi-modern,
+so it won't be complete with all the devices from the
+manufacturer, even if it can run the OS.
+Read the README.md for more info.
 ---------------------------------------
 OnePlus 5
 OnePlus 5T
